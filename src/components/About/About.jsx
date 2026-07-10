@@ -29,27 +29,27 @@ export default function About({ loading, aboutViewRef }) {
 
           <div className="about-details gsap-reveal">
             <h3 style={{ fontSize: '1.6rem', fontWeight: 800, fontFamily: 'var(--font-display)', letterSpacing: '-0.3px' }}>
-              Crafting secure, elegant, and responsive software.
+              Securing digital landscapes, one vulnerability at a time.
             </h3>
             <p className="about-text">
-              I am Tamilselvan, a computer science student specializing in advanced frontend architecture, fluid micro-interactions, and secure code flows. I prioritize structured layout logic and clean design.
+              I am Tamilselvan, a computer science student specializing in cybersecurity, penetration testing, and ethical hacking. I design, test, and audit security architectures and network systems to protect against emerging threats.
             </p>
             <p className="about-text">
-              With over three years of coding experience, I design modular apps that value performance and aesthetics. My technical expertise spans React development, network telemetry scanning, and system assessment tools.
+              My technical expertise spans network scanning suites, real-time threat intelligence dashboards, and building secure full-stack software. I enjoy solving CTF challenges, hunting for vulnerabilities, and ensuring digital integrity.
             </p>
 
             <div className="about-stats">
               <div className="glass-panel stat-item">
-                <div className="stat-number">99<span>%</span></div>
-                <div className="stat-label">Uptime Dev</div>
+                <div className="stat-number">200<span>+</span></div>
+                <div className="stat-label">CTF Solves</div>
               </div>
               <div className="glass-panel stat-item">
                 <div className="stat-number">100<span>%</span></div>
-                <div className="stat-label">Secure Logic</div>
+                <div className="stat-label">System Audited</div>
               </div>
               <div className="glass-panel stat-item">
-                <div className="stat-number">4<span>+</span></div>
-                <div className="stat-label">Major Projects</div>
+                <div className="stat-number">15<span>+</span></div>
+                <div className="stat-label">Bugs Reported</div>
               </div>
             </div>
           </div>

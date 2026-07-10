@@ -14,7 +14,7 @@ export default function Preloader({ progress }) {
       <div className="preloader-bar">
         <div className="preloader-fill" style={{ width: `${progress}%` }} />
       </div>
-      <div className="preloader-text">Initializing digital interface</div>
+      <div className="preloader-text">Initializing secure environment</div>
     </motion.div>
   );
 }

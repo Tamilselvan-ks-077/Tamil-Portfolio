@@ -51,12 +51,12 @@ export const projectsData = [
     codeLink: 'https://github.com/tamilselvan'
   },
   {
-    title: 'HomeChef Platform',
-    description: 'Client-to-chef marketplace dashboard allowing users to book gourmet specialists, manage reservation tables, and view menu details.',
+    title: 'SecureChef Audit',
+    description: 'A security assessment and source code audit of a client-to-chef marketplace, identifying authentication bypasses, sanitizing SQL injections, and setting up secure rate-limiting proxies.',
     image: homeChefImg,
-    badge: 'Booking Marketplace',
+    badge: 'Security Auditing',
     deviceType: 'laptop',
-    tech: ['React', 'FastAPI', 'PostgreSQL', 'SQLAlchemy'],
+    tech: ['Penetration Testing', 'JWT Auth', 'SQL Injection Mitigation', 'FastAPI'],
     liveLink: 'https://github.com/tamilselvan',
     codeLink: 'https://github.com/tamilselvan'
   }
@@ -66,23 +66,23 @@ export const projectsData = [
 export const timelineData = [
   {
     date: '2025 - Present',
-    role: 'Senior Project Architect',
+    role: 'Lead Security Analyst & Architect',
     company: 'Limitless SOC Ecosystem',
-    desc: 'Designed modular backend communication pipelines, implemented full-stack real-time diagnostic sockets, and set up Docker environment nodes for security metrics tracking.',
+    desc: 'Built secure backend pipelines, integrated real-time IDS telemetry sockets, and automated sandbox environments for active malware analysis.',
     iconType: 'Shield'
   },
   {
     date: '2024 - 2025',
-    role: 'Security Software Developer',
-    company: 'Cybershield Dashboard & Recon tools',
-    desc: 'Authored multi-threaded scanning engines, integrated automated DNS security lookups, and built glassmorphic React panels for logs telemetry.',
+    role: 'Penetration Tester & Developer',
+    company: 'Cybershield Recon Tools',
+    desc: 'Conducted vulnerability scanning, authored multi-threaded network scanner scripts, and built telemetry tracking consoles.',
     iconType: 'Cpu'
   },
   {
     date: '2023 - 2024',
-    role: 'Full-Stack Developer',
-    company: 'Freelance & Open Source Projects',
-    desc: 'Built API routing logic in Python (Flask/FastAPI), mapped robust PostgreSQL relational tables, and created sleek landing pages with Framer-style physics.',
+    role: 'Independent Security Researcher',
+    company: 'Bug Bounty & Freelance',
+    desc: 'Discovered high/medium security vulnerabilities (OWASP Top 10) in open-source systems, built secure REST APIs, and authored custom automated auditing tools.',
     iconType: 'Code'
   }
 ];

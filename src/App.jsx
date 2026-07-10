@@ -73,7 +73,7 @@ export default function App() {
   // Text typing effect for hero
   useEffect(() => {
     if (loading) return;
-    const titles = ['Frontend Engineer', 'React Specialist', 'Creative Developer'];
+    const titles = ['Ethical Hacker', 'Security Researcher', 'Penetration Tester'];
     let titleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;

@@ -1,6 +1,6 @@
-# 🌌 Tamilselvan K.S — Personal Portfolio
+# 🌌 Tamilselvan K.S — Ethical Hacker & Security Researcher
 
-An interactive, premium 3D developer portfolio showcasing full-stack capabilities, security engineering, and cyber reconnaissance projects. Built using React, Three.js (React Three Fiber), GSAP, Framer Motion, and Lenis for smooth momentum scrolling.
+An interactive, premium 3D portfolio showcasing ethical hacking, security engineering, and cyber reconnaissance projects. Built using React, Three.js (React Three Fiber), GSAP, Framer Motion, and Lenis for smooth momentum scrolling.
 
 ---
 
@@ -39,12 +39,17 @@ An interactive, premium 3D developer portfolio showcasing full-stack capabilitie
     *   *Description*: Cyber-defense challenge arena to test and build penetration testing knowledge through quizzes and secure coding scenarios.
     *   *Stack*: React, FastAPI, SQLite, Three.js
 
-4.  **HomeChef Platform (Booking Marketplace)**
-    *   *Description*: A client-to-chef marketplace dashboard managing reservations, scheduling, and custom menu bookings.
-    *   *Stack*: React, FastAPI, PostgreSQL, SQLAlchemy
+4.  **SecureChef Audit (Security Auditing)**
+    *   *Description*: A security assessment and source code audit of a client-to-chef marketplace, identifying authentication bypasses, sanitizing SQL injections, and setting up secure rate-limiting proxies.
+    *   *Stack*: Penetration Testing, JWT Auth, SQL Injection Mitigation, FastAPI
+
+## 💼 Technical Journey & Experience
+
+*   **2025 - Present**: **Lead Security Analyst & Architect** — Limitless SOC Ecosystem
+*   **2024 - 2025**: **Penetration Tester & Developer** — Cybershield Recon Tools
+*   **2023 - 2024**: **Independent Security Researcher** — Bug Bounty & Freelance
 
 ---
-
 ## 🔧 Installation & Local Development
 
 Follow these steps to run the portfolio locally on your machine:

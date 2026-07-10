@@ -14,17 +14,17 @@ export default function Hero({ typedText, loading, avatarViewRef }) {
       <div className="hero-grid">
         <div className="hero-info">
           <div className="hero-badge">
-            <span className="hero-badge-dot" />
-            Creative WebGL Portfolio
+            <span className="hero-badge-dot" style={{ backgroundColor: '#ff3b30', boxShadow: '0 0 10px #ff3b30' }} />
+            Active Threat Analyst
           </div>
           <h1 className="hero-name">
             <span className="gradient-text-accent">TAMILSELVAN</span>
           </h1>
           <div className="hero-title-container">
-            <span className="gradient-text-purple">{typedText || 'Developer'}</span>
+            <span className="gradient-text-purple">{typedText || 'Ethical Hacker'}</span>
           </div>
           <p className="hero-subtitle">
-            A creative engineer focused on building elegant interface architecture, smooth interactive animations, and responsive backend code flows. Let's shape elegant code together.
+            An ethical hacker and security researcher specializing in penetration testing, vulnerability assessment, and securing digital environments. Let's secure the web together.
           </p>
 
           <div className="hero-ctas">
