@@ -45,14 +45,6 @@ An interactive, premium 3D developer portfolio showcasing full-stack capabilitie
 
 ---
 
-## 💼 Technical Journey & Experience
-
-*   **2025 - Present**: **Senior Project Architect** — Limitless SOC Ecosystem
-*   **2024 - 2025**: **Security Software Developer** — Cybershield Dashboard & Recon tools
-*   **2023 - 2024**: **Full-Stack Developer** — Freelance & Open Source Projects
-
----
-
 ## 🔧 Installation & Local Development
 
 Follow these steps to run the portfolio locally on your machine:
